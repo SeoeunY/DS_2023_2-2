@@ -1,0 +1,14 @@
+========LOAD=======
+Success
+====================
+
+====== Dijkstra =======
+Directed Graph Dijkstra result
+startvertex: 2
+[1] x
+[3] 2 -> 3 (5)
+=====================
+
+===== EXIT =====
+Success
+===============
