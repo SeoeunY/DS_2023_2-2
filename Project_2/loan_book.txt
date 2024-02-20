@@ -1,0 +1,34 @@
+the Enchantment of Language	000	Emma Richardson	2018	0
+gardens Holding Time	100	Alex Kennedy	2021	0
+fundamentals of Machine Learning	200	David Miller	2019	0
+philosopher's Morning	100	Sophia Anderson	2020	0
+echoes of Eternity	300	Benjamin Harper	2022	0
+harmony in Chaos	400	Olivia Williams	2017	0
+quantum Dreams	500	Jackson Foster	2020	0
+canvas of the Cosmos	600	Maya Turner	2019	0
+infinite Horizons	100	Liam Parker	2021	0
+wings of Imagination	700	Harper Collins	2018	0
+sculpting the Mind	300	Victoria Lane	2016	4
+journey to the Unknown	500	Ethan Brooks	2020	0
+rhythms of Nature	300	Isabella Hayes	2015	4
+beyond the Veil	300	Gabriel Knight	2023	4
+the Quantum Code	400	Mia Sullivan	2018	0
+celestial Harmony	600	Adrian Lee	2022	0
+crime and Punishment	500	Louisa May Alcott	2002	0
+madame Bovary	500	Gustave Flaubert	1960	0
+the Lord of the Rings	000	J.R.R. Tolkien	1908	0
+brave New World	500	Charlotte Bronte	1926	2
+pride and Prejudice	500	Jane Austen	1979	0
+jane Eyre	700	Anthony Burgess	2014	0
+the Grapes of Wrath	300	Charles Dickens	1958	0
+a Clockwork Orange	000	Joseph Conrad	1939	0
+the Adventures of Huckleberry Finn	700	Kurt Vonnegut	1939	0
+a Clockwork Orange	500	Charles Dickens	1986	2
+great Expectations	300	Homer	1997	0
+the Iliad	400	Aldous Huxley	1990	0
+the Lord of the Rings	200	Gustave Flaubert	1959	0
+to Kill a Mockingbird	200	Gustave Flaubert	1964	0
+great Expectations	300	Mary Shelley	1987	0
+fahrenheit 451	500	Fyodor Dostoevsky	1925	0
+great Expectations	000	Charlotte Bronte	2002	0
+wuthering Heights	300	Gustave Flaubert	1916	0

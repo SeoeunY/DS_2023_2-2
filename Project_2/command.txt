@@ -1,0 +1,31 @@
+LOAD
+ADD	quantum Dreams	500	Jackson Foster	2020
+ADD	quantum Dreams	500	Jackson Foster	2020
+ADD	quantum Dreams	500	Jackson Foster
+ADD	great Expectations	000	Charlotte Bronte	2002
+ADD	fahrenheit 451	100	Charles Dickens	1980
+ADD	slaughterhouse-Five	600	Mary Shelley	1968
+ADD	the Odyssey	700	Ray Bradbury	1913
+PRINT_BP
+SEARCH_BP	quantum Dreams
+SEARCH_BP	jane Eyre
+SEARCH_BP	a
+SEARCH_BP	gardens Holding Time
+SEARCH_BP	a	e
+SEARCH_BP	m	p
+PRINT_ST	300
+PRINT_ST	400
+PRINT_ST	500
+PRINT_ST	700
+DELETE
+DELETE
+PRINT_ST	300
+PRINT_ST	400
+PRINT_ST	500
+PRINT_ST	700
+DELETE
+DELETE
+DELETE
+DELETE
+DELETE
+EXIT
